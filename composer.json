@@ -15,9 +15,9 @@
         "php": ">=5.3.3"
     },
     "require-dev": {
-        "phpunit/phpunit": "~4.0",
+        "phpunit/phpunit": "~4.0"
     },
     "autoload": {
-        "psr-4": {"DNS\\": "src/DNS"},
+        "psr-4": {"DNS\\": "src/DNS"}
     }
 }
