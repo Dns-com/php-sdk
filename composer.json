@@ -1,8 +1,8 @@
 {
-    "name": "Dns-com/php-sdk",
+    "name": "dns-com/php-sdk",
     "type": "library",
     "description": "DNS SDK for PHP",
-    "keywords": ["dns", "sdk"],
+    "keywords": ["dns", "dnscom", "sdk"],
     "license": "MIT",
     "authors": [
         {
