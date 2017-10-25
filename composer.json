@@ -1,0 +1,23 @@
+{
+    "name": "Dns-com/php-sdk",
+    "type": "library",
+    "description": "DNS SDK for PHP",
+    "keywords": ["dns", "sdk"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dns",
+            "email": "dns@dns.com",
+            "homepage": "http://www.dns.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4.0",
+    },
+    "autoload": {
+        "psr-4": {"DNS\\": "src/DNS"},
+    }
+}
