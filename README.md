@@ -2,6 +2,16 @@
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE)
 [![@dns on weibo](http://img.shields.io/badge/weibo-%4051dnscom-blue.svg)](http://weibo.com/51dnscom)
 
+## 安装
+
+* composer安装 [composer](https://getcomposer.org/) [packagist](https://packagist.org/packages/dns-com/php-sdk)
+
+```bash
+$ composer require dns-com/php-sdk
+```
+* 或直接下载，调用autoloader。
+
+
 ## 使用方法
 
 ### 上传
