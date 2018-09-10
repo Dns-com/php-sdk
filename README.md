@@ -14,6 +14,12 @@ $ composer require dns-com/php-sdk
 
 ## 使用方法
 
+### 填好appkey appsecret
+
+```
+bash env.sh
+```
+
 ### 上传
 ```php
 use DNS\Auth;
